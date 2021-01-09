@@ -1,0 +1,27 @@
+html, body {
+    height: 100%
+}
+
+.btn, .form-control, .custom-file-label, .nav-link {
+    box-shadow: none !important;
+    border-radius: 0 !important;
+}
+
+.dropdown-menu {
+    border-radius: 0 !important;
+}
+
+.rounded-50 {
+    border-radius: 50%;
+}
+
+.overflow-y-scroll {
+    overflow-y: scroll;
+}
+
+.content-height {
+    height: 600px;
+}
+.cr-image img{
+    height: 500px;
+}
